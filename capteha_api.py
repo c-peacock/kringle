@@ -19,8 +19,7 @@ def main():
 
   
     '''
-    graph = load_graph('/tmp/retrain_tmp/output_graph.pb')
-    labels = load_labels("/tmp/retrain_tmp/output_labels.txt")
+    MISSING IMAGE PROCESSING AND ML IMAGE PREDICTION CODE GOES HERE
 
     '''
     
